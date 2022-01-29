@@ -2,7 +2,7 @@
 
 
 Realizacja na bazie laboratorium 9 \
-      Zrealizowane zostalo 6 punktow:\
+      Zrealizowane zostalo 5 punktow:\
       1. W pliku Dockerfile : uzycie uzytkownika node, dodanie wersji dev;\
       2. W pliku docker-compose: dodanie wersji dev i klienckiej;\
       3. Na stronie: dodanie 3 podstron oraz zmiana frontendu;\
