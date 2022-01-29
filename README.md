@@ -23,5 +23,4 @@ Uruchamianie
 3.http://localhost
 ```
 \
-![Test Image 1](https://github.com/Iakirmon/Zadanie1_Chmura/blob/main/client/src/docker_ps.png)\
     ![Test Image 2](https://github.com/Iakirmon/Zadanie1_Chmura/blob/main/client/src/badanie.png)\
