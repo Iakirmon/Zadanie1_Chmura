@@ -10,17 +10,19 @@ Realizacja na bazie laboratorium 9 \
       5. Dodanie pliku .example.env do wersji klienckiej
       
       
-Uruchamianie
+Uruchamianie poprzez 4 komendy w konsoli
 ```
-1.git clone https://github.com/Iakirmon/Zadanie1_Chmura.git 
-```
-
-```
-2.docker compose -f docker-compose.dev.yml up 
+git clone https://github.com/Iakirmon/Zadanie1_Chmura.git 
 ```
 
 ```
-3.http://localhost
+docker compose -f docker-compose.dev.yml up 
+```
+```
+cd Zadanie1_Chmura
+```
+```
+http://localhost
 ```
 \
     ![Test Image 2](https://github.com/Iakirmon/Zadanie1_Chmura/blob/main/client/src/badanie.png)\
