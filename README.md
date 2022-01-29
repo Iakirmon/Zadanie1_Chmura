@@ -1,4 +1,4 @@
-# Project1_Cloud
+# Zadanie1_Chmura
 
 
 Usluga zostala opracowana na bazie laboratorium 9 \
@@ -12,7 +12,7 @@ Usluga zostala opracowana na bazie laboratorium 9 \
       
 Uruchamianie
 ```
-1.git clone https://github.com/broffy/Project1_Cloud.git 
+1.git clone https://github.com/Iakirmon/Zadanie1_Chmura.git 
 ```
 
 ```
@@ -23,7 +23,5 @@ Uruchamianie
 3.http://localhost
 ```
 \
-![Test Image 1](https://github.com/broffy/Project1_Cloud/blob/main/client/src/docker_ps.png)\
-    ![Test Image 2](https://github.com/broffy/Project1_Cloud/blob/main/client/src/working.png)\
-# Zadanie1_Chmura
-# Zadanie1_Chmura
+![Test Image 1](https://github.com/Iakirmon/Zadanie1_Chmura/blob/main/client/src/docker_ps.png)\
+    ![Test Image 2](https://github.com/Iakirmon/Zadanie1_Chmura/blob/main/client/src/badanie.png)\
